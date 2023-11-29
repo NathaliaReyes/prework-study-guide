@@ -6,7 +6,7 @@ This Study Guide was crafted by Silvia Reyes ❤️, a dedicated bootcamp studen
 
 I constructed this project to provide a more convenient way to access my notes, eliminating the need to sift through my notebook. Clicking the URL offers a more efficient solution. The purpose of this website is to streamline access to key topics like HTML, CSS, Git, and JavaScript. Throughout this process, I gained a holistic understanding of the concepts underlying HTML, CSS, Git (gitflow), and JavaScript.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Usage](#usage)
 - [Credits](#credits)
